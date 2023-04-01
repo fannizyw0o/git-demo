@@ -16,5 +16,9 @@ hello atuguigu! hello git!
 hello atuguigu! hello git!
 hello atuguigu! hello git!
 hello atuguigu! hello git!
-hello atuguigu! hello git!master test
+<<<<<<< HEAD
+hello atuguigu! hello git!
+=======
+hello atuguigu! hello git!hot-fix test
+>>>>>>> hot-fix
 fixed
